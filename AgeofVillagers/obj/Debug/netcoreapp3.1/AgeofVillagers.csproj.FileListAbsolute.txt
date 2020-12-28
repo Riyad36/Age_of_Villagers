@@ -1,0 +1,15 @@
+F:\5th Semester\Design Pattern (Mohayemin Sir)\36-riyad\age-of-villagers-swe-17\solutions\36-riyad\AgeofVillagers\AgeofVillagers\AgeofVillagers\bin\Debug\netcoreapp3.1\AgeofVillagers.exe
+F:\5th Semester\Design Pattern (Mohayemin Sir)\36-riyad\age-of-villagers-swe-17\solutions\36-riyad\AgeofVillagers\AgeofVillagers\AgeofVillagers\bin\Debug\netcoreapp3.1\AgeofVillagers.deps.json
+F:\5th Semester\Design Pattern (Mohayemin Sir)\36-riyad\age-of-villagers-swe-17\solutions\36-riyad\AgeofVillagers\AgeofVillagers\AgeofVillagers\bin\Debug\netcoreapp3.1\AgeofVillagers.runtimeconfig.json
+F:\5th Semester\Design Pattern (Mohayemin Sir)\36-riyad\age-of-villagers-swe-17\solutions\36-riyad\AgeofVillagers\AgeofVillagers\AgeofVillagers\bin\Debug\netcoreapp3.1\AgeofVillagers.runtimeconfig.dev.json
+F:\5th Semester\Design Pattern (Mohayemin Sir)\36-riyad\age-of-villagers-swe-17\solutions\36-riyad\AgeofVillagers\AgeofVillagers\AgeofVillagers\bin\Debug\netcoreapp3.1\AgeofVillagers.dll
+F:\5th Semester\Design Pattern (Mohayemin Sir)\36-riyad\age-of-villagers-swe-17\solutions\36-riyad\AgeofVillagers\AgeofVillagers\AgeofVillagers\bin\Debug\netcoreapp3.1\AgeofVillagers.pdb
+F:\5th Semester\Design Pattern (Mohayemin Sir)\36-riyad\age-of-villagers-swe-17\solutions\36-riyad\AgeofVillagers\AgeofVillagers\AgeofVillagers\obj\Debug\netcoreapp3.1\AgeofVillagers.csprojAssemblyReference.cache
+F:\5th Semester\Design Pattern (Mohayemin Sir)\36-riyad\age-of-villagers-swe-17\solutions\36-riyad\AgeofVillagers\AgeofVillagers\AgeofVillagers\obj\Debug\netcoreapp3.1\AgeofVillagers.csproj.CoreCompileInputs.cache
+F:\5th Semester\Design Pattern (Mohayemin Sir)\36-riyad\age-of-villagers-swe-17\solutions\36-riyad\AgeofVillagers\AgeofVillagers\AgeofVillagers\obj\Debug\netcoreapp3.1\AgeofVillagers.AssemblyInfoInputs.cache
+F:\5th Semester\Design Pattern (Mohayemin Sir)\36-riyad\age-of-villagers-swe-17\solutions\36-riyad\AgeofVillagers\AgeofVillagers\AgeofVillagers\obj\Debug\netcoreapp3.1\AgeofVillagers.AssemblyInfo.cs
+F:\5th Semester\Design Pattern (Mohayemin Sir)\36-riyad\age-of-villagers-swe-17\solutions\36-riyad\AgeofVillagers\AgeofVillagers\AgeofVillagers\obj\Debug\netcoreapp3.1\AgeofVillagers.dll
+F:\5th Semester\Design Pattern (Mohayemin Sir)\36-riyad\age-of-villagers-swe-17\solutions\36-riyad\AgeofVillagers\AgeofVillagers\AgeofVillagers\obj\Debug\netcoreapp3.1\AgeofVillagers.pdb
+F:\5th Semester\Design Pattern (Mohayemin Sir)\36-riyad\age-of-villagers-swe-17\solutions\36-riyad\AgeofVillagers\AgeofVillagers\AgeofVillagers\obj\Debug\netcoreapp3.1\AgeofVillagers.genruntimeconfig.cache
+F:\5th Semester\Design Pattern (Mohayemin Sir)\36-riyad\age-of-villagers-swe-17\solutions\36-riyad\AgeofVillagers\AgeofVillagers\AgeofVillagers\obj\Debug\netcoreapp3.1\AgeofVillagers.Form1.resources
+F:\5th Semester\Design Pattern (Mohayemin Sir)\36-riyad\age-of-villagers-swe-17\solutions\36-riyad\AgeofVillagers\AgeofVillagers\AgeofVillagers\obj\Debug\netcoreapp3.1\AgeofVillagers.csproj.GenerateResource.cache
